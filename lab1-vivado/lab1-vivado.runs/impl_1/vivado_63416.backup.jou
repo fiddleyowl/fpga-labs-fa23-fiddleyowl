@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Mon Feb  5 19:48:33 2024
+# Process ID: 63416
+# Current directory: C:/Users/hhhph/Developer/EECS151/fpga-labs-fa23-fiddleyowl/lab1-vivado/lab1-vivado.runs/impl_1
+# Command line: vivado.exe -log z1top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source z1top.tcl -notrace
+# Log file: C:/Users/hhhph/Developer/EECS151/fpga-labs-fa23-fiddleyowl/lab1-vivado/lab1-vivado.runs/impl_1/z1top.vdi
+# Journal file: C:/Users/hhhph/Developer/EECS151/fpga-labs-fa23-fiddleyowl/lab1-vivado/lab1-vivado.runs/impl_1\vivado.jou
+# Running On: Philips-ASUS, OS: Windows, CPU Frequency: 2803 MHz, CPU Physical cores: 14, Host memory: 16780 MB
+#-----------------------------------------------------------
+source z1top.tcl -notrace
